@@ -1,0 +1,1 @@
+This code simulates the famous rock, paper, scissors game. 
